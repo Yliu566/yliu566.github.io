@@ -1,10 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "yliu566.github.io"
   site-url: https://yliu566.github.io/
-  google-analytics: ""
   cookie-consent: true
   navbar:
     right:
@@ -13,12 +13,16 @@ website:
         href: https://github.com/yliu566
 #      - icon: linkedin
 #        href: 
-#      - icon: rss
-#        href: blog.xml
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: cosmo
     css: styles.css
 
+comments:
+  utterances:
+    repo: yliu566/yliu566.github.io
 
-
+execute:
+  freeze: auto

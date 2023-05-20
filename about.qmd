@@ -4,27 +4,13 @@ image: avatar.png
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/chrwittm  
     - icon: linkedin
       text: LinkedIn
-      href: https://de.linkedin.com/in/chrwittm
+      href: https://de.linkedin.com/in/yuru-liu566
     - icon: github
       text: Github
-      href: https://github.com/chrwittm
-    - icon: file-earmark-code
-      text: Kaggle
-      href: https://www.kaggle.com/christianwittmann
+      href: https://github.com/yliu566
 
 ---
 
-In this blog, I am documenting my learning journey in machine learning:
-
-"The Machine Learning Journey" ;)
-
-I am mainly writing for myself, trying to explain/clarify concepts to myself while writing,
-
-therefore implementing the concept of "The Best Way to Learn Is to Teach".
-
-If you stumbled across this blog and you even find it useful, that would make me happy :)
+I am Yuru Liu. I am currently working as a Cheminformatics researcher in the AI department of a startup company located in Shanghai, China. My work is mainly about clearning and curing the large database for ML models as well as developing quantum descriptors for molecules as use in machine learning models.
