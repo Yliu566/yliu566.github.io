@@ -1,11 +1,10 @@
 ---
-title: "Yuru's blog"
+title: "Yuru's blog posts"
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
-#  feed: true
   sort-ui: false
   filter-ui: false
 page-layout: full
